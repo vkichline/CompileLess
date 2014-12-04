@@ -1,0 +1,7 @@
+{
+    "name": "CompileLess",
+    "private": true,
+    "dependencies": {
+        "bootstrap-less": "~3.2.0"
+    }
+}
