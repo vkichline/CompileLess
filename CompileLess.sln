@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.22403.0
+VisualStudioVersion = 14.0.22822.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5CFAED8A-D771-40C3-BBB7-559683193859}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CompileLess", "src\CompileLess\CompileLess.kproj", "{0B57B7A9-125B-44AC-9FE9-8DF63BEC3E10}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CompileLess", "src\CompileLess\CompileLess.xproj", "{0B57B7A9-125B-44AC-9FE9-8DF63BEC3E10}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ADC804AA-45E2-4E9A-A46E-7FB62106B90C}"
 	ProjectSection(SolutionItems) = preProject
