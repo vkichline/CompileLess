@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNet.Builder;
 using Microsoft.Framework.DependencyInjection;
 
-namespace NewCompileLess
+namespace CompileLess
 {
     public class Startup
     {
